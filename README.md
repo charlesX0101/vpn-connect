@@ -1,4 +1,4 @@
-# VPN-Connect
+# VPN Connect
 
 A simple command-line script that makes it easier to connect to TryHackMe or Hack The Box using OpenVPN.  
 No GUI. No extra steps. Just run it, pick your config, and you're connected.
